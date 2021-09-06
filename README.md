@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision, machine learning
 - 🌱 I’m currently learning robotic systems engineering
 - 💞️ I’m looking to collaborate on GAN
-- 📫 How to reach me: meditate, and I'll answer you.
+- 📫 How to reach me: meditate, and I'll answer you also ping me here.
 
 <!---
 megh21/megh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
