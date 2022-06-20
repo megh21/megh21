@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megh21
-- 👀 I’m interested in computer vision, machine learning
+- 👀 I’m interested in computer vision,Time Series machine learning
 - 🌱 I’m currently learning robotic systems engineering
 - 💞️ I’m looking to collaborate on Vision Transformers, GNN
 - 📫 How to reach me: meditate, and I'll answer you, also ping me at meghraj.bagde@rwth-aachen.de 
